@@ -1,0 +1,2 @@
+# specificationPattern
+specificationPattern
